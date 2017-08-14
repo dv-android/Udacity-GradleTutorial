@@ -10,6 +10,8 @@ For instance, the project object has a method called `task` for declaring
 tasks. It accepts a name of a new task and a configuration closure, which
 we'll talk about shortly.
 
+
+
 */
 
 project.task("myTask1")
@@ -158,3 +160,4 @@ configuration block. We'll talk more task types that when we work with file
 system tasks.
 
 */
+

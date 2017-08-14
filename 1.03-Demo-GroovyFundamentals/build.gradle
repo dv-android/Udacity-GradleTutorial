@@ -146,3 +146,10 @@ noArgs()
 //noArgs // Doesn't work
 //twoArgs oneArg 500, 200 // Also doesn't work as it's ambiguous
 twoArgs oneArg(500), 200 // Fixed the ambiguity
+
+
+def addTwo(first,second){
+        println "Addition ${first+second}"
+    }
+
+ addTwo 5,2   
