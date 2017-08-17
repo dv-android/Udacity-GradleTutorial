@@ -33,7 +33,7 @@ Person.class, and we can also find our JAR.
 
 You might be thinking to yourself "I thought there wasn't going to be any
 magic. This sure seems like magic... How did Gradle know where to find my
-source code?"
+4source code?"
 
 I promise there's no magic. Gradle just has a lot of very sensible defaults,
 like, for instance, it assumes that your Java sources live in a folder named
