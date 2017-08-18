@@ -10,6 +10,11 @@ task tellJoke << {
     println "Gradle of Filth!"
 }
 
+task tellAnotherJoke << {
+    println "What's a master's favorite black metal band?"
+    println "Gradle of Filth!"
+}
+
 /*
 
 Let's import this project into Android Studio. Open Android Studio, and from
